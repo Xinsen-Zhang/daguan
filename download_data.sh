@@ -1,0 +1,1 @@
+wget https://stack-1252734833.cos.ap-beijing.myqcloud.com/nlp/daguan/data.tar.gz
